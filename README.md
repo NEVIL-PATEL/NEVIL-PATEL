@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Nodejs**
 
-- 👨‍💻 All of my projects are available at [MyPortfolioWebsite](MyPortfolioWebsite)
+<!--   - 👨‍💻 All of my projects are available at [MyPortfolioWebsite](MyPortfolioWebsite)  -->
 
 - 📫 How to reach me **nevil.patel141@gmail.com**
 
