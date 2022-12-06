@@ -7,7 +7,7 @@
 
    - 👨‍💻 All of my projects are available at [MyPortfolioWebsite](MyPortfolioWebsite)  -->
 
-- 📫 How to reach me **nevil.patel141@gmail.com**
+- 📫 How to reach me **nevilpatel6531@gmail.com**
 
 <!--  - 📄 Know about my experiences [MyResume](MyResume) -->
 
