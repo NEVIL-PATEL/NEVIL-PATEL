@@ -47,3 +47,7 @@
         src="https://github-readme-stats.vercel.app/api?username=nevil-patel&show_icons=true&locale=en"
         alt="nevil-patel" /> -->
 </p>
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nevil-patel&label=Profile%20views&color=0e75b6&style=flat" alt="nevil-patel" /> </p>
