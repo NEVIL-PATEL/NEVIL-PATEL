@@ -50,3 +50,8 @@
         alt="nevil-patel" /> -->
 </p>
 
+
+
+
+![](https://komarev.com/ghpvc/?username=nevil-patel&label=PROFILE+VIEWS)
+
