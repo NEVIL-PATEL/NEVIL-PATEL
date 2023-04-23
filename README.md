@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm NEVIL PATEL</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manan36chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="manan36chauhan" /> </p>
+
 - 🔭 I’m currently working on **Reactjs**
 
  - 🌱 I’m currently learning **Reactjs, Nodejs**
@@ -48,6 +50,3 @@
         alt="nevil-patel" /> -->
 </p>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nevil-patel&label=Profile%20views&color=0e75b6&style=flat" alt="nevil-patel" /> </p>
