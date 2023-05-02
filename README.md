@@ -1,4 +1,6 @@
-<img  src="https://raw.githubusercontent.com/NEVIL-PATEL/NEVIL-PATEL/main/nevil.png" alt="image not found"/>
+ <!-- <img  src="https://raw.githubusercontent.com/NEVIL-PATEL/NEVIL-PATEL/main/nevil.png" alt="image not found"/> -->
+![nevil](https://user-images.githubusercontent.com/93375041/235587308-f3d4289d-6b57-4c28-bca7-716bdf8d36e6.png)
+
 <h1 align="center">Hi 👋, I'm NEVIL PATEL</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
